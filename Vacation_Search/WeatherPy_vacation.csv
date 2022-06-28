@@ -1,0 +1,61 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+4,Aasiaat,GL,41.38,['scattered clouds'],68.7098,-52.8699,Hotel Aasiaat Sømandshjem
+11,Pangnirtung,CA,47.8,['overcast clouds'],66.1451,-65.7125,Kilabuk Lodge
+40,New Norfolk,AU,46.92,['overcast clouds'],-42.7826,147.0587,The Shingles Riverside Cottages
+43,Bluff,NZ,46.8,['overcast clouds'],-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+46,Ushuaia,AR,37.06,['broken clouds'],-54.8,-68.3,Albatross Hotel
+49,Qaanaaq,GL,46.67,['broken clouds'],77.484,-69.3632,Qaanaaq Hotel
+50,Punta Arenas,CL,42.91,['light rain'],-53.15,-70.9167,Hotel Hain
+54,Mataura,NZ,46.47,['overcast clouds'],-46.1927,168.8643,Ellie's Villa
+61,Port Augusta,AU,47.93,['overcast clouds'],-32.5,137.7667,Majestic Oasis Apartments
+69,Tasiilaq,GL,44.76,['broken clouds'],65.6145,-37.6368,The Red House
+71,Busselton,AU,46.9,['clear sky'],-33.65,115.3333,Observatory Guest House
+73,Cherskiy,RU,43.16,['overcast clouds'],68.75,161.3,Gostinitsa
+92,Sandy Bay,AU,47.3,['broken clouds'],-42.913,147.3532,St Ives Hobart Accommodation Tasmania
+106,Hobart,AU,47.26,['broken clouds'],-42.8794,147.3294,St Ives Hobart Accommodation Tasmania
+114,Nanortalik,GL,47.21,['light rain'],60.1432,-45.2371,Hotel Kap Farvel
+115,Pevek,RU,37.35,['light rain'],69.7008,170.3133,Severnoye Zoloto
+117,Severo-Kurilsk,RU,46.09,['light rain'],50.6789,156.125,Kak Doma
+125,Barrow,US,46.42,['fog'],71.2906,-156.7887,King Eider Inn
+128,Maldonado,UY,47.59,['overcast clouds'],-34.6667,-54.9167,La Cimarrona
+154,Upernavik,GL,38.91,['few clouds'],72.7868,-56.1549,Café de Upernavik
+161,Rio Gallegos,AR,39.25,['light rain'],-51.6226,-69.2181,Hotel Santa Cruz
+169,Codrington,AU,43.43,['scattered clouds'],-38.2667,141.9667,Codrington Gardens Bed And Breakfast
+171,Deputatskiy,RU,37.42,['scattered clouds'],69.3,139.9,Baza Otdykha
+175,Tazovskiy,RU,45.61,['overcast clouds'],67.4667,78.7,TazHostel
+203,Mount Gambier,AU,40.6,['few clouds'],-37.8333,140.7667,The Commodore
+212,Dubbo,AU,42.93,['overcast clouds'],-32.25,148.6167,Quality Inn Dubbo International
+236,Tacuarembo,UY,47.62,['light rain'],-31.7333,-55.9833,Complejo San Fructuoso
+237,Napier,NZ,48.63,['broken clouds'],-39.4833,176.9167,The Nautilus Napier
+242,Tevriz,RU,48.45,['overcast clouds'],57.509,72.4042,Postoyalyy Dvor
+291,Broken Hill,AU,47.95,['overcast clouds'],-31.95,141.4333,Royal Exchange Hotel
+314,Te Anau,NZ,42.28,['overcast clouds'],-45.4167,167.7167,Kingsgate Hotel Te Anau
+319,Tiksi,RU,45.72,['few clouds'],71.6872,128.8694,Arktika
+331,Longyearbyen,SJ,46.24,['light rain'],78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+345,Makaryev,RU,45.9,['clear sky'],57.8797,43.8069,Postoyalyy Dvor
+347,Stulovo,RU,43.18,['broken clouds'],58.7225,50.1439,Victoria Village
+373,Moree,AU,47.79,['overcast clouds'],-29.4667,149.85,Molika Springs Motel
+383,Sharlyk,RU,44.29,['clear sky'],52.9167,54.75,"Gostinitsa-Kafe ""Komil'fo"""
+389,Tuatapere,NZ,45.86,['overcast clouds'],-46.1333,167.6833,Ron and Tony's Bed & Breakfast
+392,Clyde River,CA,34.56,['overcast clouds'],70.4692,-68.5914,Qamaq Hotel
+414,Lipin Bor,RU,48.58,['clear sky'],60.2622,37.9763,Priozor'ye
+443,Otane,NZ,48.94,['broken clouds'],-39.8833,176.6333,Ludlow Farmstay
+454,Yar-Sale,RU,41.7,['clear sky'],66.8333,70.8333,Yalemd
+460,Tobol,KZ,45.95,['broken clouds'],52.6844,62.5794,Tobol Gostinitsa
+479,Novyy Urengoy,RU,46.9,['scattered clouds'],66.0833,76.6333,Apartments Moy Dom na Gubkina
+487,Mezen,RU,38.48,['few clouds'],65.8522,44.24,Gostevoy Dom Everest
+495,Paamiut,GL,44.78,['light rain'],61.994,-49.6678,Pistut
+501,Victor Harbor,AU,48.69,['overcast clouds'],-35.5667,138.6167,McCracken Country Club
+520,Narrabri,AU,44.53,['overcast clouds'],-30.3167,149.7833,Crossroads Hotel
+527,Pyshma,RU,44.04,['light rain'],56.9523,63.2513,"Gostinitsa ""Postoyalyy Dvor"""
+551,Naryan-Mar,RU,39.6,['overcast clouds'],67.6713,53.087,Hostel Agat
+557,Aktash,RU,42.93,['clear sky'],50.3,87.7333,Yolki Zelonyye
+561,Coihaique,CL,40.95,['light rain'],-45.5752,-72.0662,Diego De Almagro Coyhaique
+583,Kaitangata,NZ,41.11,['overcast clouds'],-46.2817,169.8464,Kaitangata Motor Camp
+606,San Carlos De Bariloche,AR,36.25,['light rain'],-41.1456,-71.3082,Hotel Patagonia
+615,Dunedin,NZ,45.81,['overcast clouds'],-45.8742,170.5036,Scenic Hotel Southern Cross
+623,Yayva,RU,44.19,['overcast clouds'],59.3303,57.2641,Usad'ba
+630,Bredy,RU,45.46,['scattered clouds'],52.4153,60.3411,Individual'nyy Predprinimatel' Rakhmanin Andrey Aleksandrovich
+632,Gornopravdinsk,RU,41.88,['overcast clouds'],60.05,69.9,Hostel
+674,Qaqortoq,GL,45.77,['moderate rain'],60.7167,-46.0333,Siniffik Inn
+691,Ulladulla,AU,46.9,['overcast clouds'],-35.35,150.4667,Sandpiper Motel
